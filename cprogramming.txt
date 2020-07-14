@@ -1,0 +1,11 @@
+#include <stdio>
+int main ()
+{    int in =0;
+
+     printf("enter",scanf("in", %d));
+
+
+    return 0 ;
+}
+
+
